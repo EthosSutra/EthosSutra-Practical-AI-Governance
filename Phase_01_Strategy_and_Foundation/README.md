@@ -135,10 +135,10 @@ Following approval of the foundational governance artifacts, GlobalBank Corporat
 | Field            | Value                                                        |
 | ---------------- | ------------------------------------------------------------ |
 | Document Owner   | AI Governance Lead                                           |
-| Repository       | EthosSutra Enterprise AI Governance Reference Implementation |
+| Repository       |EthosSutra Practical AI Governance |
 | Client           | GlobalBank Corporation                                       |
 | AI System        | GlobalBank Nexus                                             |
-| Classification   | Internal                                                     |
+| Classification   | Public Reference Implementation                                                    |
 | Review Frequency | Annual                                                       |
 | Status           | Approved                                                     |
 

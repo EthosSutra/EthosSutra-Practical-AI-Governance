@@ -16,18 +16,18 @@ This repository will be built and released incrementally. Each phase represents 
 
 The roadmap includes:
 
-- **Phase 01 — Strategy & Foundation**
-- **Phase 02 — AI Registration & Inventory**
-- **Phase 03 — AI Risk Management**
-- **Phase 04 — Governance Controls**
-- **Phase 05 — AI Documentation**
-- **Phase 06 — Validation & Assurance**
-- **Phase 07 — Operations & Monitoring**
-- **Phase 08 — Third-Party Governance**
-- **Phase 09 — Audit & Control Assurance**
-- **Phase 10 — Regulatory Alignment**
-- **Phase 11 — Knowledge Base**
-- **Phase 12 — Governance Assessment & Dashboard**
+- ✅ **Phase 01 — Strategy & Foundation — Released**
+- ⬜ **Phase 02 — AI Registration & Inventory — Planned**
+- ⬜ **Phase 03 — AI Risk Management — Planned**
+- ⬜ **Phase 04 — Governance Controls — Planned**
+- ⬜ **Phase 05 — AI Documentation — Planned**
+- ⬜ **Phase 06 — Validation & Assurance — Planned**
+- ⬜ **Phase 07 — Operations & Monitoring — Planned**
+- ⬜ **Phase 08 — Third-Party Governance — Planned**
+- ⬜ **Phase 09 — Audit & Control Assurance — Planned**
+- ⬜ **Phase 10 — Regulatory Alignment — Planned**
+- ⬜ **Phase 11 — Knowledge Base — Planned**
+- ⬜ **Phase 12 — Governance Assessment & Dashboard — Planned**
 
 Each phase will be published as it is completed, reviewed and ready for public release.
 
