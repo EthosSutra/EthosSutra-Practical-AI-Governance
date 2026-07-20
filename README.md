@@ -18,7 +18,7 @@ The roadmap includes:
 
 - ✅ **Phase 01 — Strategy & Foundation — Released**
 - ✅ **Phase 02 — AI Registration & Inventory — Released**
-- ⬜ **Phase 03 — AI Risk Management — Planned**
+- ✅ **Phase 03 — AI Risk Management — Released**
 - ⬜ **Phase 04 — Governance Controls — Planned**
 - ⬜ **Phase 05 — AI Documentation — Planned**
 - ⬜ **Phase 06 — Validation & Assurance — Planned**
