@@ -23,11 +23,11 @@ The roadmap includes:
 - ✅ **Phase 05 — AI Documentation — Released**
 - ✅ **Phase 06 — Validation & Assurance — Released**
 - ✅ **Phase 07 — Operations & Monitoring — Planned**
-- ⬜ **Phase 08 — Third-Party Governance — Planned**
-- ⬜ **Phase 09 — Audit & Control Assurance — Planned**
-- ⬜ **Phase 10 — Regulatory Alignment — Planned**
-- ⬜ **Phase 11 — Knowledge Base — Planned**
-- ⬜ **Phase 12 — Governance Assessment & Dashboard — Planned**
+- ✅ **Phase 08 — Third-Party Governance — Planned**
+- ✅ **Phase 09 — Audit & Control Assurance — Planned**
+- ✅ **Phase 10 — Regulatory Alignment — Planned**
+- ✅ **Phase 11 — Knowledge Base — Planned**
+- ✅ **Phase 12 — Governance Assessment & Dashboard — Planned**
 
 Each phase will be published as it is completed, reviewed and ready for public release.
 
